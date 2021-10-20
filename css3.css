@@ -1,0 +1,52 @@
+ .master{
+     width: 1400px;
+     height: 600px;
+     padding-left: 1.7cm;
+ }
+ 
+ 
+ .container {
+    padding-top: 15px;
+    text-align: center;
+  }
+  
+   .a {
+    background-color:rgb(226, 217, 217);
+    
+    padding: 15px;
+    display: inline-table;
+    width: 270px;
+   
+    margin:5px 60px;
+  } 
+.header{
+    text-align: center;
+    background-color: cadetblue;
+    padding: 30px;
+ 
+    
+}
+section{
+    text-align: center;
+    padding: 10px 22px;
+}
+.box{
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+    padding: 25px;
+    margin: 0 17px;
+    text-align: center;
+  }
+  .blue{
+      background-color: rgb(37, 37, 189);
+  }
+  .yellow{
+      background-color: rgb(214, 214, 16);
+  }
+  .green{
+      background-color: rgb(27, 133, 27);
+  }
+  .pink{
+      background-color: rgb(134, 43, 58);
+  }

@@ -1,0 +1,84 @@
+body{
+    background-color: brown;
+}
+.container{
+    width: 800px;
+    height:800px;
+    margin: auto;
+ background-color: black;
+    
+    
+ 
+}
+
+
+.red{
+    background-color: red;
+   width: 350px  ;
+   height: 450px;
+  position: relative;
+  border: 2px solid;
+  
+
+
+float: right;
+
+padding-top: 10px;
+}
+.w1{
+    background-color: azure;
+    position: relative;
+    width: 400px;
+    height: 380px;
+   margin-bottom:40px; 
+   
+   
+    margin-left: 14px;
+  
+ 
+
+}
+.w2{
+    position: relative;
+    background-color: azure;
+    width:400px;
+    height: 190px;
+   bottom: 30px;
+  
+
+}
+
+.blue{
+    width: 160px;
+    height: 160px;
+    background-color: blue;
+    /* bottom: 15px;
+    margin-bottom: 40px; */
+
+    
+}
+.wa{
+    height: 80px;
+    width: 200px;
+    background-color: white;
+    margin-left: 200px;
+padding-bottom: 3px;
+bottom: 200px;
+} 
+.w22{
+    height: 80px;
+    width: 190px;
+    background-color: white;
+
+}
+.yellow{
+    background-color:hsl(61, 99%, 50%) ;
+    width: 100px;
+    height:99px;
+    position: absolute;
+  right: 290px;
+  
+    /* margin-top: 8px; */
+}
+
+
